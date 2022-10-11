@@ -8,5 +8,7 @@ p{
     text-align: center;
 }
 #bone1{
-    
+    position: fixed;
+    top: 200px;
+    left: 625px;
 }
